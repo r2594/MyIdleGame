@@ -1,0 +1,31 @@
+#click {
+  background-color: red;
+  border: none;
+  border-radius: 25px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+#containerNewton {
+  display: flex;
+}
+
+#calories {
+  margin-left: 3px;
+}
+
+#containerPotatoes {
+  display: inline-flex;
+}
+
+#upgradePotatoesBrick.active {
+  display: none;
+}
+
+#btnPotatoes.active {
+  color: green;
+}
